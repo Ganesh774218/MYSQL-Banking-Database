@@ -31,3 +31,5 @@ OVERVIEW OF RELATIONSHIP-
 - Accounts belong to branches
 - Transactions are associated with accounts
 This diagram effectively models a banking system’s data flow.
+
+![Image](https://github.com/user-attachments/assets/aa4fc819-400c-4e16-b26b-4b5df872138e)
