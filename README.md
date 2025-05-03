@@ -25,6 +25,9 @@ Entities & Their Attributes -
 ✅ customer → Stores customer details
 - Primary Key: custid
 - Linked to: account (via custid), loan (via custid)
+- ![Image](https://github.com/user-attachments/assets/aa4fc819-400c-4e16-b26b-4b5df872138e)
+- ![Screenshot 2025-05-03 150353](https://github.com/user-attachments/assets/c437cbd4-d732-4c8d-83ca-b860d28161b5)
+
 
 OVERVIEW OF RELATIONSHIP-
 - Customers hold accounts and take loans
